@@ -1,0 +1,12 @@
+D:\OOP1\bin\Debug\OOP1.exe.config
+D:\OOP1\bin\Debug\OOP1.exe
+D:\OOP1\bin\Debug\OOP1.pdb
+D:\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+D:\OOP1\obj\Debug\OOP1.csproj.SuggestedBindingRedirects.cache
+D:\OOP1\obj\Debug\OOP1.MainForm.resources
+D:\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+D:\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+D:\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+D:\OOP1\obj\Debug\OOP1.exe
+D:\OOP1\obj\Debug\OOP1.pdb
+D:\OOP1\obj\Debug\OOP1.WelcomeForm.resources
