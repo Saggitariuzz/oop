@@ -70,6 +70,11 @@ namespace OOP1
 
         private void btnSave_Click(object sender, EventArgs e)
         {
+            if(cbWhatToChange.SelectedIndex == -1)
+            {
+                ExceptionHandler.MessageBox(0, "Сначала выберите поле", "Ошибка", 48);
+                return;
+            }
             try
             {
                 labelSaved.Visible = false;
