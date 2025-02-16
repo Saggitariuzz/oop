@@ -41,9 +41,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(93, 31);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(380, 37);
+            this.label1.Size = new System.Drawing.Size(382, 37);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Лабораторная работа 1";
+            this.label1.Text = "Лабораторная работа 2";
             // 
             // label2
             // 
