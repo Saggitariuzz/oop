@@ -81,7 +81,7 @@
             // 
             this.lbEvents.AutoSize = true;
             this.lbEvents.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.lbEvents.Location = new System.Drawing.Point(655, 22);
+            this.lbEvents.Location = new System.Drawing.Point(661, 22);
             this.lbEvents.Name = "lbEvents";
             this.lbEvents.Size = new System.Drawing.Size(70, 16);
             this.lbEvents.TabIndex = 3;
@@ -197,8 +197,12 @@
             this.Controls.Add(this.lbObjects);
             this.Controls.Add(this.tbEvents);
             this.Controls.Add(this.tbObjects);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Лабораторная работа 2";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 

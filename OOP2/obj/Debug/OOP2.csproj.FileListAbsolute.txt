@@ -9,3 +9,4 @@ D:\OOP\OOP2\obj\Debug\OOP2.csproj.GenerateResource.cache
 D:\OOP\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
 D:\OOP\OOP2\obj\Debug\OOP2.exe
 D:\OOP\OOP2\obj\Debug\OOP2.pdb
+D:\OOP\OOP2\obj\Debug\OOP2.WelcomeForm.resources

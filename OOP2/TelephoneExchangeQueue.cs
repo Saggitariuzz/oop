@@ -13,7 +13,6 @@ namespace OOP2
 
     public class TelephoneExchangeQueue
     {
-
         public Queue<TelephoneExchange> Queue { get; private set; }
 
         public event QueueChanged ItemAdded;
@@ -33,7 +32,7 @@ namespace OOP2
         public void Enqueue(TelephoneExchange item)
         {
             Queue.Enqueue(item);
-            ItemAdded?.Invoke($"Элемент добавлен на позицию {Queue.Count - 1}" + Environment.NewLine);
+            ItemAdded?.Invoke($"Элемент добавлен на позицию {Queue.Count}" + Environment.NewLine);
         }
 
         public TelephoneExchange Dequeue()
