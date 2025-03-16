@@ -10,3 +10,14 @@ D:\OOP\OOP4\obj\Debug\OOP4.csproj.CoreCompileInputs.cache
 D:\OOP\OOP4\obj\Debug\OOP4.exe
 D:\OOP\OOP4\obj\Debug\OOP4.pdb
 D:\OOP\OOP4\obj\Debug\OOP4.WelcomeForm.resources
+D:\OOP\oop_labs\oop\OOP4\bin\Debug\OOP4.exe.config
+D:\OOP\oop_labs\oop\OOP4\bin\Debug\OOP4.exe
+D:\OOP\oop_labs\oop\OOP4\bin\Debug\OOP4.pdb
+D:\OOP\oop_labs\oop\OOP4\obj\Debug\OOP4.csproj.AssemblyReference.cache
+D:\OOP\oop_labs\oop\OOP4\obj\Debug\OOP4.MainForm.resources
+D:\OOP\oop_labs\oop\OOP4\obj\Debug\OOP4.Properties.Resources.resources
+D:\OOP\oop_labs\oop\OOP4\obj\Debug\OOP4.WelcomeForm.resources
+D:\OOP\oop_labs\oop\OOP4\obj\Debug\OOP4.csproj.GenerateResource.cache
+D:\OOP\oop_labs\oop\OOP4\obj\Debug\OOP4.csproj.CoreCompileInputs.cache
+D:\OOP\oop_labs\oop\OOP4\obj\Debug\OOP4.exe
+D:\OOP\oop_labs\oop\OOP4\obj\Debug\OOP4.pdb

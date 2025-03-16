@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP\\oop_labs\\oop\\OOP5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|d:\\oop\\oop_labs\\oop\\oop5\\interpreter\\commands\\transfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:interpreter\\commands\\transfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\interpreter\\terminalexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:interpreter\\terminalexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\interpreter\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:interpreter\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\interpreter\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:interpreter\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\wrongcommandexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:wrongcommandexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\interpreter\\iexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:interpreter\\iexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\interpreter\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:interpreter\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\interpreter\\commands\\callcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:interpreter\\commands\\callcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|D:\\OOP\\oop_labs\\oop\\OOP5\\interpreter\\commands\\holdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46293389-135F-4430-8873-D8B9CD000BF2}|OOP5.csproj|solutionrelative:interpreter\\commands\\holdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAJEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-16T11:46:36.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\WelcomeForm.cs",
+              "RelativeToolTip": "WelcomeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-16T11:46:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WelcomeForm.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\WelcomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\WelcomeForm.Designer.cs",
+              "RelativeToolTip": "WelcomeForm.Designer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-16T11:46:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\OOP\\OOP5\\WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\OOP5\\WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-16T11:46:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WrongCommandException.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\WrongCommandException.cs",
+              "RelativeDocumentMoniker": "WrongCommandException.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\WrongCommandException.cs",
+              "RelativeToolTip": "WrongCommandException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Parser.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Parser.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Parser.cs",
+              "RelativeToolTip": "Interpreter\\Parser.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransferCommand.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Commands\\TransferCommand.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Commands\\TransferCommand.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Commands\\TransferCommand.cs",
+              "RelativeToolTip": "Interpreter\\Commands\\TransferCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CallCommand.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Commands\\CallCommand.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Commands\\CallCommand.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Commands\\CallCommand.cs",
+              "RelativeToolTip": "Interpreter\\Commands\\CallCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HoldCommand.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Commands\\HoldCommand.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Commands\\HoldCommand.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Commands\\HoldCommand.cs",
+              "RelativeToolTip": "Interpreter\\Commands\\HoldCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelpCommand.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Commands\\HelpCommand.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Commands\\HelpCommand.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Commands\\HelpCommand.cs",
+              "RelativeToolTip": "Interpreter\\Commands\\HelpCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TerminalExpression.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\TerminalExpression.cs",
+              "RelativeDocumentMoniker": "Interpreter\\TerminalExpression.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\TerminalExpression.cs",
+              "RelativeToolTip": "Interpreter\\TerminalExpression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IExpression.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\IExpression.cs",
+              "RelativeDocumentMoniker": "Interpreter\\IExpression.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\IExpression.cs",
+              "RelativeToolTip": "Interpreter\\IExpression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Context.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Context.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\Interpreter\\Context.cs",
+              "RelativeToolTip": "Interpreter\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:46:36.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP5\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-16T11:46:36.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP5\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OOP\\OOP5\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\OOP5\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-16T11:46:36.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP\\oop_labs\\oop\\OOP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|d:\\oop\\oop_labs\\oop\\oop3\\factorymethod\\analogtelephoneexchangecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:factorymethod\\analogtelephoneexchangecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\factorymethod\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:factorymethod\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\factorymethod\\telephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:factorymethod\\telephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\factorymethod\\itelephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:factorymethod\\itelephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\factorymethod\\digitaltelephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:factorymethod\\digitaltelephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\factorymethod\\digitaltelephoneexchangecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:factorymethod\\digitaltelephoneexchangecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\factorymethod\\analogtelephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:factorymethod\\analogtelephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38218277-4125-46F3-8DEB-65C2D1922A01}|..\\FactoryMethodTests\\FactoryMethodTests.csproj|d:\\oop\\oop_labs\\oop\\factorymethodtests\\factorymethodtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\randomvaluesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:randomvaluesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|D:\\OOP\\oop_labs\\oop\\OOP3\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C137563-33D5-4488-AFF8-0C30FBA6FC63}|OOP3.csproj|solutionrelative:welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FactoryMethodTests.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\FactoryMethodTests\\FactoryMethodTests.cs",
+              "RelativeDocumentMoniker": "..\\FactoryMethodTests\\FactoryMethodTests.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\FactoryMethodTests\\FactoryMethodTests.cs",
+              "RelativeToolTip": "..\\FactoryMethodTests\\FactoryMethodTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:08:31.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\WelcomeForm.cs",
+              "RelativeToolTip": "WelcomeForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DigitalTelephoneExchangeCompany.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\DigitalTelephoneExchangeCompany.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\DigitalTelephoneExchangeCompany.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\DigitalTelephoneExchangeCompany.cs",
+              "RelativeToolTip": "FactoryMethod\\DigitalTelephoneExchangeCompany.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WelcomeForm.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\WelcomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\WelcomeForm.Designer.cs",
+              "RelativeToolTip": "WelcomeForm.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnalogTelephoneExchange.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\AnalogTelephoneExchange.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\AnalogTelephoneExchange.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\AnalogTelephoneExchange.cs",
+              "RelativeToolTip": "FactoryMethod\\AnalogTelephoneExchange.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\Company.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Company.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\Company.cs",
+              "RelativeToolTip": "FactoryMethod\\Company.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelephoneExchange.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\TelephoneExchange.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\TelephoneExchange.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\TelephoneExchange.cs",
+              "RelativeToolTip": "FactoryMethod\\TelephoneExchange.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITelephoneExchange.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\ITelephoneExchange.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\ITelephoneExchange.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\ITelephoneExchange.cs",
+              "RelativeToolTip": "FactoryMethod\\ITelephoneExchange.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalogTelephoneExchangeCompany.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\AnalogTelephoneExchangeCompany.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\AnalogTelephoneExchangeCompany.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\AnalogTelephoneExchangeCompany.cs",
+              "RelativeToolTip": "FactoryMethod\\AnalogTelephoneExchangeCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RandomValuesGenerator.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\RandomValuesGenerator.cs",
+              "RelativeDocumentMoniker": "RandomValuesGenerator.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\RandomValuesGenerator.cs",
+              "RelativeToolTip": "RandomValuesGenerator.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAF4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DigitalTelephoneExchange.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\DigitalTelephoneExchange.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\DigitalTelephoneExchange.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP3\\FactoryMethod\\DigitalTelephoneExchange.cs",
+              "RelativeToolTip": "FactoryMethod\\DigitalTelephoneExchange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:04:17.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

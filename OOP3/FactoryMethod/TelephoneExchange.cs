@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace OOP3.FactoryMethod
 {
     public abstract class TelephoneExchange : ITelephoneExchange
-    {
+    {   
         public string Address { get; set; }
 
         public int NumberOfUsers { get; set; }

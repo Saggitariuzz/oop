@@ -10,3 +10,14 @@ D:\OOP\OOP3\obj\Debug\OOP3.exe
 D:\OOP\OOP3\obj\Debug\OOP3.pdb
 D:\OOP\OOP3\obj\Debug\OOP3.MainForm.resources
 D:\OOP\OOP3\obj\Debug\OOP3.WelcomeForm.resources
+D:\OOP\oop_labs\oop\OOP3\bin\Debug\OOP3.exe.config
+D:\OOP\oop_labs\oop\OOP3\bin\Debug\OOP3.exe
+D:\OOP\oop_labs\oop\OOP3\bin\Debug\OOP3.pdb
+D:\OOP\oop_labs\oop\OOP3\obj\Debug\OOP3.csproj.AssemblyReference.cache
+D:\OOP\oop_labs\oop\OOP3\obj\Debug\OOP3.MainForm.resources
+D:\OOP\oop_labs\oop\OOP3\obj\Debug\OOP3.Properties.Resources.resources
+D:\OOP\oop_labs\oop\OOP3\obj\Debug\OOP3.WelcomeForm.resources
+D:\OOP\oop_labs\oop\OOP3\obj\Debug\OOP3.csproj.GenerateResource.cache
+D:\OOP\oop_labs\oop\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+D:\OOP\oop_labs\oop\OOP3\obj\Debug\OOP3.exe
+D:\OOP\oop_labs\oop\OOP3\obj\Debug\OOP3.pdb

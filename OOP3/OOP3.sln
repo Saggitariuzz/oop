@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3.csproj", "{5C137563-33D5-4488-AFF8-0C30FBA6FC63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodTests", "..\FactoryMethodTests\FactoryMethodTests.csproj", "{CBBA5CEC-E766-4A75-AEA2-CAD838EA06F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodTests", "..\FactoryMethodTests\FactoryMethodTests.csproj", "{38218277-4125-46F3-8DEB-65C2D1922A01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5C137563-33D5-4488-AFF8-0C30FBA6FC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C137563-33D5-4488-AFF8-0C30FBA6FC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C137563-33D5-4488-AFF8-0C30FBA6FC63}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CBBA5CEC-E766-4A75-AEA2-CAD838EA06F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBBA5CEC-E766-4A75-AEA2-CAD838EA06F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBBA5CEC-E766-4A75-AEA2-CAD838EA06F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBBA5CEC-E766-4A75-AEA2-CAD838EA06F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38218277-4125-46F3-8DEB-65C2D1922A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38218277-4125-46F3-8DEB-65C2D1922A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38218277-4125-46F3-8DEB-65C2D1922A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38218277-4125-46F3-8DEB-65C2D1922A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
