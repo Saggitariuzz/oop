@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OOP\\oop_labs\\oop\\CommandsTest\\CommandsTest.csproj": {}
+  },
+  "projects": {
+    "D:\\OOP\\oop_labs\\oop\\CommandsTest\\CommandsTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OOP\\oop_labs\\oop\\CommandsTest\\CommandsTest.csproj",
+        "projectName": "CommandsTest",
+        "projectPath": "D:\\OOP\\oop_labs\\oop\\CommandsTest\\CommandsTest.csproj",
+        "packagesPath": "C:\\Users\\kosti\\.nuget\\packages\\",
+        "outputPath": "D:\\OOP\\oop_labs\\oop\\CommandsTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Visual Studio\\General tools\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kosti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OOP\\oop_labs\\oop\\OOP5\\OOP5.csproj": {
+                "projectPath": "D:\\OOP\\oop_labs\\oop\\OOP5\\OOP5.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OOP\\oop_labs\\oop\\OOP5\\OOP5.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\OOP\\oop_labs\\oop\\OOP5\\OOP5.csproj",
+        "projectName": "OOP5",
+        "projectPath": "D:\\OOP\\oop_labs\\oop\\OOP5\\OOP5.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

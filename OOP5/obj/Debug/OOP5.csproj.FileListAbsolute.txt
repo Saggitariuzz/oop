@@ -10,3 +10,14 @@ D:\OOP\OOP5\obj\Debug\OOP5.exe
 D:\OOP\OOP5\obj\Debug\OOP5.pdb
 D:\OOP\OOP5\obj\Debug\OOP5.MainForm.resources
 D:\OOP\OOP5\obj\Debug\OOP5.WelcomeForm.resources
+D:\OOP\oop_labs\oop\OOP5\bin\Debug\OOP5.exe.config
+D:\OOP\oop_labs\oop\OOP5\bin\Debug\OOP5.exe
+D:\OOP\oop_labs\oop\OOP5\bin\Debug\OOP5.pdb
+D:\OOP\oop_labs\oop\OOP5\obj\Debug\OOP5.csproj.AssemblyReference.cache
+D:\OOP\oop_labs\oop\OOP5\obj\Debug\OOP5.MainForm.resources
+D:\OOP\oop_labs\oop\OOP5\obj\Debug\OOP5.Properties.Resources.resources
+D:\OOP\oop_labs\oop\OOP5\obj\Debug\OOP5.WelcomeForm.resources
+D:\OOP\oop_labs\oop\OOP5\obj\Debug\OOP5.csproj.GenerateResource.cache
+D:\OOP\oop_labs\oop\OOP5\obj\Debug\OOP5.csproj.CoreCompileInputs.cache
+D:\OOP\oop_labs\oop\OOP5\obj\Debug\OOP5.exe
+D:\OOP\oop_labs\oop\OOP5\obj\Debug\OOP5.pdb

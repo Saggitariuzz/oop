@@ -43,7 +43,10 @@ namespace OOP5
 
         private void lbCommands_SelectedIndexChanged(object sender, EventArgs e)
         {
-            tbDescription.Text = commands[lbCommands.SelectedIndex].ToString();
+            if(lbCommands.SelectedIndex != -1)
+            {
+                tbDescription.Text = commands[lbCommands.SelectedIndex].ToString();
+            }
         }
 
         private void MainForm_FormClosing(object sender, FormClosingEventArgs e)

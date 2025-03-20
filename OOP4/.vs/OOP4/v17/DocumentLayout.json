@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\OOP\\oop_labs\\oop\\OOP4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F71D7D05-3590-4E2C-AD3D-C9F42425E6B8}|OOP4.csproj|D:\\OOP\\oop_labs\\oop\\OOP4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F71D7D05-3590-4E2C-AD3D-C9F42425E6B8}|OOP4.csproj|d:\\oop\\oop_labs\\oop\\oop4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71D7D05-3590-4E2C-AD3D-C9F42425E6B8}|OOP4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F71D7D05-3590-4E2C-AD3D-C9F42425E6B8}|OOP4.csproj|d:\\oop\\oop_labs\\oop\\oop4\\composite\\composites\\telephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F71D7D05-3590-4E2C-AD3D-C9F42425E6B8}|OOP4.csproj|D:\\OOP\\oop_labs\\oop\\OOP4\\composite\\composites\\telephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71D7D05-3590-4E2C-AD3D-C9F42425E6B8}|OOP4.csproj|solutionrelative:composite\\composites\\telephoneexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,27 +58,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:20:11.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CallControlSystem.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\Composite\\Leafs\\CallControlSystem.cs",
-              "RelativeDocumentMoniker": "Composite\\Leafs\\CallControlSystem.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\Composite\\Leafs\\CallControlSystem.cs",
-              "RelativeToolTip": "Composite\\Leafs\\CallControlSystem.cs",
+              "DocumentIndex": 2,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.cs",
+              "RelativeToolTip": "WelcomeForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.446Z",
+              "WhenOpened": "2025-03-09T17:20:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WelcomeForm.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.Designer.cs",
+              "RelativeToolTip": "WelcomeForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:20:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:20:11.38Z",
               "EditorCaption": ""
             },
             {
@@ -91,47 +119,23 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAHIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T17:20:11.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "DocumentIndex": 5,
+              "Title": "CallControlSystem.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\Composite\\Leafs\\CallControlSystem.cs",
+              "RelativeDocumentMoniker": "Composite\\Leafs\\CallControlSystem.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\Composite\\Leafs\\CallControlSystem.cs",
+              "RelativeToolTip": "Composite\\Leafs\\CallControlSystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T17:20:11.446Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WelcomeForm.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.cs",
-              "RelativeDocumentMoniker": "WelcomeForm.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.cs",
-              "RelativeToolTip": "WelcomeForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WelcomeForm.Designer.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.Designer.cs",
-              "RelativeDocumentMoniker": "WelcomeForm.Designer.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.Designer.cs",
-              "RelativeToolTip": "WelcomeForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.109Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -142,8 +146,7 @@
               "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\WelcomeForm.cs [Design]",
               "RelativeToolTip": "WelcomeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.113Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T17:20:11.113Z"
             },
             {
               "$type": "Document",
@@ -155,21 +158,7 @@
               "RelativeToolTip": "Composite\\Leafs\\BalanceSystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP4\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T17:20:11.113Z"
             },
             {
               "$type": "Document",
@@ -181,8 +170,7 @@
               "RelativeToolTip": "Composite\\Composites\\TelephoneExchange.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T17:20:11.446Z"
             },
             {
               "$type": "Document",
@@ -194,8 +182,7 @@
               "RelativeToolTip": "Composite\\Leafs\\SwitchingSubsystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T17:20:11.446Z"
             },
             {
               "$type": "Document",
@@ -207,8 +194,7 @@
               "RelativeToolTip": "Composite\\IATSComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T17:20:11.446Z"
             },
             {
               "$type": "Document",
@@ -219,8 +205,7 @@
               "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP4\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:20:11.446Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T17:20:11.446Z"
             }
           ]
         }

@@ -11,10 +11,6 @@ namespace OOP5.Interpreter
         public static IExpression Parse(string line)
         {
             string[] args = line.Split(' ');
-            if(args.Length == 0)
-            {
-                throw new WrongCommandException("Сначала введите команду!");
-            }
             switch(args[0])
             {
                 case "HELP":
