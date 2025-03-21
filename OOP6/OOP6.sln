@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP6", "OOP6.csproj", "{B2B2F993-FE96-422D-83B5-085E1EAC107B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{5F239EBC-BD1B-4A51-86EA-B6C703355DB2}"
-	ProjectSection(SolutionItems) = preProject
-		Vector.txt = Vector.txt
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

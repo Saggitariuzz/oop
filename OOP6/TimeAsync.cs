@@ -1,15 +1,17 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
+using System;
+using System.Windows.Forms;
 
 namespace OOP6
 {
     internal class TimeAsync
     {
-        public async static Task<string> SystemTimeAsync(IProgress<int> progress)
+        public async static Task SystemTimeAsync(TextBox tb)
         {
-            return await Task.Run(() => {
-                progress?.Report(100);
-                return DateTime.Now.ToString("HH:mm:ss");
+            await Task.Run(async () =>
+            {
+                await Task.Delay(3000);
+                tb.Invoke((MethodInvoker)(() => { tb.Text = DateTime.Now.ToString("HH:mm:ss"); }));
             });
         }
     }

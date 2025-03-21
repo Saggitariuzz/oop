@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "D:\\OOP\\oop_labs\\oop\\OOP6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|d:\\oop\\oop_labs\\oop\\oop6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\vectorasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:vectorasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|d:\\oop\\oop_labs\\oop\\oop6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\timeasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:timeasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\functionasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:functionasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F239EBC-BD1B-4A51-86EA-B6C703355DB2}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{5F239EBC-BD1B-4A51-86EA-B6C703355DB2}|D:\\OOP\\oop_labs\\oop\\OOP6\\Vector.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5F239EBC-BD1B-4A51-86EA-B6C703355DB2}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{5F239EBC-BD1B-4A51-86EA-B6C703355DB2}|solutionrelative:Vector.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|D:\\OOP\\oop_labs\\oop\\OOP6\\vectorasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B2F993-FE96-422D-83B5-085E1EAC107B}|OOP6.csproj|solutionrelative:vectorasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,41 +50,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeAsync.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\TimeAsync.cs",
+              "RelativeDocumentMoniker": "TimeAsync.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\TimeAsync.cs",
+              "RelativeToolTip": "TimeAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:57:01.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VectorAsync.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\VectorAsync.cs",
+              "RelativeDocumentMoniker": "VectorAsync.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\VectorAsync.cs*",
+              "RelativeToolTip": "VectorAsync.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:57:01.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:57:01.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:57:01.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionAsync.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\FunctionAsync.cs",
+              "RelativeDocumentMoniker": "FunctionAsync.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\FunctionAsync.cs",
+              "RelativeToolTip": "FunctionAsync.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:24:14.997Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WelcomeForm.Designer.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.Designer.cs",
-              "RelativeDocumentMoniker": "WelcomeForm.Designer.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.Designer.cs",
-              "RelativeToolTip": "WelcomeForm.Designer.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowC0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:57:01.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T17:57:01.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv3IAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:57:00.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "WelcomeForm.cs",
               "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.cs",
               "RelativeDocumentMoniker": "WelcomeForm.cs",
@@ -97,33 +160,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TimeAsync.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\TimeAsync.cs",
-              "RelativeDocumentMoniker": "TimeAsync.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\TimeAsync.cs",
-              "RelativeToolTip": "TimeAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:57:01.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Vector.txt",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\Vector.txt",
-              "RelativeDocumentMoniker": "Vector.txt",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\Vector.txt",
-              "RelativeToolTip": "Vector.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADaBwAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-20T17:57:01.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "WelcomeForm.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.Designer.cs",
+              "RelativeToolTip": "WelcomeForm.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:57:01.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -132,54 +182,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T17:57:01.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "D:\\OOP\\OOP6\\MainForm.Designer.cs*",
-              "RelativeToolTip": "..\\..\\..\\OOP6\\MainForm.Designer.cs*",
-              "ViewState": "AQIAAIgAAAAAAAAAAAAAAJsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
-              "WhenOpened": "2025-03-20T17:57:00.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WelcomeForm.cs [Design]",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.cs",
-              "RelativeDocumentMoniker": "WelcomeForm.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\WelcomeForm.cs [Design]",
-              "RelativeToolTip": "WelcomeForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:57:01.034Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\MainForm.cs [Design]",
-              "RelativeToolTip": "MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:57:01.037Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VectorAsync.cs",
-              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP6\\VectorAsync.cs",
-              "RelativeDocumentMoniker": "VectorAsync.cs",
-              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP6\\VectorAsync.cs",
-              "RelativeToolTip": "VectorAsync.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:57:01.449Z"
             }
           ]
         }
