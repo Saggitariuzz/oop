@@ -14,7 +14,7 @@ namespace OOP6
             await Task.Run( async () =>
             {
                 await Task.Delay(3000);
-                tb.Invoke((MethodInvoker)(() => { tb.Text = (x * x * x - 2 * x * x + 3 * x - 5).ToString("F2"); }));
+                tb.Invoke((MethodInvoker)(() => { tb.Text += (x * x * x - 2 * x * x + 3 * x - 5).ToString("F2"); }));
             });
         }
     }

@@ -16,11 +16,14 @@ namespace OOP6
 
         private const double X = 7.3;
 
+        private const string FUNCTION = "f(x) = x³ - 2x² + 3x - 5";
+
         public MainForm()
         {
             InitializeComponent();
             list = VectorAsync.CreateRandomVector(SIZE, MIN, MAX);
             tbMedian.Text = "Вектор: " + string.Join(" ", list) + Environment.NewLine;
+            tbVector.Text = FUNCTION + Environment.NewLine + $"x = {X}" + Environment.NewLine;
         }
 
         private void buttonClose_Click(object sender, EventArgs e)
