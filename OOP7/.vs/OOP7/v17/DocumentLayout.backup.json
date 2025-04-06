@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP\\oop_labs\\oop\\OOP7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\models\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:models\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\controllers\\callcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:controllers\\callcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|D:\\OOP\\oop_labs\\oop\\OOP7\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|d:\\oop\\oop_labs\\oop\\oop7\\oop7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E59D802-C0B1-4A7D-A90C-32EEE8700049}|OOP7.csproj|solutionrelative:oop7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\WelcomeForm.cs",
+              "RelativeToolTip": "WelcomeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:00:15.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:00:17.749Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:00:17.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:00:17.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:00:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallController.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\Controllers\\CallController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CallController.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\Controllers\\CallController.cs",
+              "RelativeToolTip": "Controllers\\CallController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:00:17.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OOP\\OOP7\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\OOP7\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-06T20:00:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Call.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\Models\\Call.cs",
+              "RelativeDocumentMoniker": "Models\\Call.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\Models\\Call.cs",
+              "RelativeToolTip": "Models\\Call.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:00:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WelcomeForm.Designer.cs",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\WelcomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.Designer.cs",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\WelcomeForm.Designer.cs",
+              "RelativeToolTip": "WelcomeForm.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:00:17.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OOP7.csproj",
+              "DocumentMoniker": "D:\\OOP\\oop_labs\\oop\\OOP7\\OOP7.csproj",
+              "RelativeDocumentMoniker": "OOP7.csproj",
+              "ToolTip": "D:\\OOP\\oop_labs\\oop\\OOP7\\OOP7.csproj",
+              "RelativeToolTip": "OOP7.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T20:00:17.796Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

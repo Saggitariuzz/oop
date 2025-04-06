@@ -7,40 +7,44 @@ namespace OOP6
 {
     public class VectorAsync
     {
-        public static List<int> CreateRandomVector(int size, int min, int max)
+        public static async Task<List<int>> CreateRandomVector(int size, int min, int max)
         {
-            Random rnd = new Random();
-            List<int> list = new List<int>();
-            for(int i = 0; i < size; i++)
+            return await Task.Run(() =>
             {
-                list.Add(rnd.Next(min, max));
-            }
-            return list;
+                Random rnd = new Random();
+                List<int> list = new List<int>();
+                for (int i = 0; i < size; i++)
+                {
+                    list.Add(rnd.Next(min, max));
+                }
+                return list;
+            });
+
         }
-        public async static Task VectorMedianAsync(TextBox tb, List<int> list)
+        public async static Task MinimumAsync(List<int> list, TextBox tb)
         {
-            await Task.Run(async () =>
+            await Task.Run( () =>
             {
-                await Task.Delay(2000);
-                if (list.Count == 0)
+                int min = list[0];
+                string vector = tb.Text;
+                tb.Invoke((MethodInvoker)(() => {
+                    tb.Text = $"Текущее минимальное: {min}" + Environment.NewLine + vector;
+                }));
+                Task.Delay(10).Wait();
+                for (int i = 1; i < list.Count; i++)
                 {
-                    tb.Invoke((MethodInvoker)(() =>
-                        { tb.Text += string.Empty; }));
-                }
-                list.Sort();
-                if (list.Count % 2 == 1)
-                {
-                    tb.Invoke((MethodInvoker)(() =>
-                        { tb.Text += list[list.Count / 2].ToString("F2"); }));
-                }
-                else
-                {
-                    tb.Invoke((MethodInvoker)(() =>
+                    Task.Delay(1).Wait();
+                    if (list[i] < min)
                     {
-                        tb.Text +=
-                            (0.5 * (list[list.Count / 2 - 1] + list[list.Count / 2])).ToString("F2");
-                    }));
+                        min = list[i];
+                        tb.Invoke((MethodInvoker)(() => {
+                            tb.Text = $"Текущее минимальное: {min}" + Environment.NewLine + vector;
+                        }));
+                    }
                 }
+                tb.Invoke((MethodInvoker)(() => {
+                    tb.Text = $"Минимальное значение: {min}" + Environment.NewLine + vector;
+                }));
             });
         }
     }

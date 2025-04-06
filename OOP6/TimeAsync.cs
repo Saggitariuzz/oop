@@ -6,12 +6,22 @@ namespace OOP6
 {
     internal class TimeAsync
     {
+
+        private static bool isrunning = false;
+
         public async static Task SystemTimeAsync(TextBox tb)
         {
-            await Task.Run(async () =>
+            if (isrunning)
             {
-                await Task.Delay(3000);
-                tb.Invoke((MethodInvoker)(() => { tb.Text = DateTime.Now.ToString("HH:mm:ss"); }));
+                return;
+            }
+            isrunning = true;
+            await Task.Run( () =>
+            {
+                while (true)
+                {
+                    tb.Invoke((MethodInvoker)(() => { tb.Text = DateTime.Now.ToString("HH:mm:ss"); }));
+                }
             });
         }
     }

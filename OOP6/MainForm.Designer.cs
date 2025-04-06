@@ -29,38 +29,38 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
-            this.labelVector = new System.Windows.Forms.Label();
-            this.labelMedian = new System.Windows.Forms.Label();
+            this.labelFunction = new System.Windows.Forms.Label();
+            this.labelMinvalue = new System.Windows.Forms.Label();
             this.labelTime = new System.Windows.Forms.Label();
-            this.tbVector = new System.Windows.Forms.TextBox();
-            this.tbMedian = new System.Windows.Forms.TextBox();
+            this.tbFunction = new System.Windows.Forms.TextBox();
+            this.tbMinvalue = new System.Windows.Forms.TextBox();
             this.tbTime = new System.Windows.Forms.TextBox();
             this.buttonFunction = new System.Windows.Forms.Button();
-            this.buttonMedian = new System.Windows.Forms.Button();
+            this.buttonMinvalue = new System.Windows.Forms.Button();
             this.buttonTime = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // labelVector
+            // labelFunction
             // 
-            this.labelVector.AutoSize = true;
-            this.labelVector.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelVector.Location = new System.Drawing.Point(18, 20);
-            this.labelVector.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.labelVector.Name = "labelVector";
-            this.labelVector.Size = new System.Drawing.Size(235, 29);
-            this.labelVector.TabIndex = 0;
-            this.labelVector.Text = "Значение функции";
+            this.labelFunction.AutoSize = true;
+            this.labelFunction.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelFunction.Location = new System.Drawing.Point(18, 20);
+            this.labelFunction.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.labelFunction.Name = "labelFunction";
+            this.labelFunction.Size = new System.Drawing.Size(235, 29);
+            this.labelFunction.TabIndex = 0;
+            this.labelFunction.Text = "Значение функции";
             // 
-            // labelMedian
+            // labelMinvalue
             // 
-            this.labelMedian.AutoSize = true;
-            this.labelMedian.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelMedian.Location = new System.Drawing.Point(404, 20);
-            this.labelMedian.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.labelMedian.Name = "labelMedian";
-            this.labelMedian.Size = new System.Drawing.Size(117, 29);
-            this.labelMedian.TabIndex = 1;
-            this.labelMedian.Text = "Медиана";
+            this.labelMinvalue.AutoSize = true;
+            this.labelMinvalue.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelMinvalue.Location = new System.Drawing.Point(404, 20);
+            this.labelMinvalue.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.labelMinvalue.Name = "labelMinvalue";
+            this.labelMinvalue.Size = new System.Drawing.Size(299, 29);
+            this.labelMinvalue.TabIndex = 1;
+            this.labelMinvalue.Text = "Минимальное значение";
             // 
             // labelTime
             // 
@@ -73,26 +73,27 @@
             this.labelTime.TabIndex = 2;
             this.labelTime.Text = "Текущее время";
             // 
-            // tbVector
+            // tbFunction
             // 
-            this.tbVector.Location = new System.Drawing.Point(20, 57);
-            this.tbVector.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.tbVector.Multiline = true;
-            this.tbVector.Name = "tbVector";
-            this.tbVector.ReadOnly = true;
-            this.tbVector.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.tbVector.Size = new System.Drawing.Size(373, 576);
-            this.tbVector.TabIndex = 3;
+            this.tbFunction.Location = new System.Drawing.Point(20, 57);
+            this.tbFunction.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tbFunction.Multiline = true;
+            this.tbFunction.Name = "tbFunction";
+            this.tbFunction.ReadOnly = true;
+            this.tbFunction.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.tbFunction.Size = new System.Drawing.Size(373, 576);
+            this.tbFunction.TabIndex = 3;
             // 
-            // tbMedian
+            // tbMinvalue
             // 
-            this.tbMedian.Location = new System.Drawing.Point(410, 55);
-            this.tbMedian.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.tbMedian.Multiline = true;
-            this.tbMedian.Name = "tbMedian";
-            this.tbMedian.ReadOnly = true;
-            this.tbMedian.Size = new System.Drawing.Size(373, 578);
-            this.tbMedian.TabIndex = 4;
+            this.tbMinvalue.Location = new System.Drawing.Point(410, 55);
+            this.tbMinvalue.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tbMinvalue.Multiline = true;
+            this.tbMinvalue.Name = "tbMinvalue";
+            this.tbMinvalue.ReadOnly = true;
+            this.tbMinvalue.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.tbMinvalue.Size = new System.Drawing.Size(373, 578);
+            this.tbMinvalue.TabIndex = 4;
             // 
             // tbTime
             // 
@@ -115,16 +116,16 @@
             this.buttonFunction.UseVisualStyleBackColor = true;
             this.buttonFunction.Click += new System.EventHandler(this.buttonFunction_Click_1);
             // 
-            // buttonMedian
+            // buttonMinvalue
             // 
-            this.buttonMedian.Location = new System.Drawing.Point(409, 657);
-            this.buttonMedian.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.buttonMedian.Name = "buttonMedian";
-            this.buttonMedian.Size = new System.Drawing.Size(374, 35);
-            this.buttonMedian.TabIndex = 8;
-            this.buttonMedian.Text = "Рассчитать медиану";
-            this.buttonMedian.UseVisualStyleBackColor = true;
-            this.buttonMedian.Click += new System.EventHandler(this.buttonMedian_Click);
+            this.buttonMinvalue.Location = new System.Drawing.Point(409, 657);
+            this.buttonMinvalue.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.buttonMinvalue.Name = "buttonMinvalue";
+            this.buttonMinvalue.Size = new System.Drawing.Size(374, 35);
+            this.buttonMinvalue.TabIndex = 8;
+            this.buttonMinvalue.Text = "Рассчитать минимальное значение";
+            this.buttonMinvalue.UseVisualStyleBackColor = true;
+            this.buttonMinvalue.Click += new System.EventHandler(this.buttonMinvalue_Click);
             // 
             // buttonTime
             // 
@@ -143,14 +144,14 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1200, 716);
             this.Controls.Add(this.buttonTime);
-            this.Controls.Add(this.buttonMedian);
+            this.Controls.Add(this.buttonMinvalue);
             this.Controls.Add(this.buttonFunction);
             this.Controls.Add(this.tbTime);
-            this.Controls.Add(this.tbMedian);
-            this.Controls.Add(this.tbVector);
+            this.Controls.Add(this.tbMinvalue);
+            this.Controls.Add(this.tbFunction);
             this.Controls.Add(this.labelTime);
-            this.Controls.Add(this.labelMedian);
-            this.Controls.Add(this.labelVector);
+            this.Controls.Add(this.labelMinvalue);
+            this.Controls.Add(this.labelFunction);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -159,6 +160,7 @@
             this.Name = "MainForm";
             this.Text = "Лабораторная работа 6";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -166,14 +168,14 @@
 
         #endregion
 
-        private System.Windows.Forms.Label labelVector;
-        private System.Windows.Forms.Label labelMedian;
+        private System.Windows.Forms.Label labelFunction;
+        private System.Windows.Forms.Label labelMinvalue;
         private System.Windows.Forms.Label labelTime;
-        private System.Windows.Forms.TextBox tbVector;
-        private System.Windows.Forms.TextBox tbMedian;
+        private System.Windows.Forms.TextBox tbFunction;
+        private System.Windows.Forms.TextBox tbMinvalue;
         private System.Windows.Forms.TextBox tbTime;
         private System.Windows.Forms.Button buttonFunction;
-        private System.Windows.Forms.Button buttonMedian;
+        private System.Windows.Forms.Button buttonMinvalue;
         private System.Windows.Forms.Button buttonTime;
     }
 }
